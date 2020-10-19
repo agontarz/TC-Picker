@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e0699a4-170e-494f-b372-82cd1d1c7bbd" name="Default Changelist" comment="" />
+    <list default="true" id="3e0699a4-170e-494f-b372-82cd1d1c7bbd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install.exe.manifest" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,9 +37,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite/myapp/views.py" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="MyApp" type="PythonConfigurationType" factoryName="Python">
@@ -136,30 +147,30 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="187" key="#Notifications/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603135250860" />
-    <state x="414" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603132534382">
+    <state x="414" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603138036071">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="414" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603132534382" />
-    <state x="740" y="284" key="FileChooserDialogImpl" timestamp="1603135368022">
+    <state x="414" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603138036071" />
+    <state x="740" y="284" key="FileChooserDialogImpl" timestamp="1603137972894">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="284" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603135368022" />
-    <state width="1899" height="207" key="GridCell.Tab.0.bottom" timestamp="1603136754382">
+    <state x="740" y="284" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603137972894" />
+    <state width="1899" height="207" key="GridCell.Tab.0.bottom" timestamp="1603138364176">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603136754382" />
-    <state width="1899" height="207" key="GridCell.Tab.0.center" timestamp="1603136754382">
+    <state width="1899" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603138364176" />
+    <state width="1899" height="207" key="GridCell.Tab.0.center" timestamp="1603138364176">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="207" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603136754382" />
-    <state width="1899" height="207" key="GridCell.Tab.0.left" timestamp="1603136754382">
+    <state width="1899" height="207" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603138364176" />
+    <state width="1899" height="207" key="GridCell.Tab.0.left" timestamp="1603138364176">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="207" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603136754382" />
-    <state width="1899" height="207" key="GridCell.Tab.0.right" timestamp="1603136754382">
+    <state width="1899" height="207" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603138364176" />
+    <state width="1899" height="207" key="GridCell.Tab.0.right" timestamp="1603138364176">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="207" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603136754382" />
+    <state width="1899" height="207" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603138364176" />
     <state width="1899" height="352" key="GridCell.Tab.1.bottom" timestamp="1602893477519">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -176,10 +187,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1899" height="352" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1602893477519" />
-    <state x="631" y="159" key="SettingsEditor" timestamp="1603135371871">
+    <state x="631" y="159" key="SettingsEditor" timestamp="1603138362228">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="631" y="159" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603135371871" />
+    <state x="631" y="159" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603138362228" />
+    <state x="771" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603137736677">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="771" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603137736677" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1603122803454">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
